@@ -1,2 +1,1 @@
-# AIClock-py
-基于Python智能闹钟
+# experiment1-py
